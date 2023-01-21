@@ -1,0 +1,13 @@
+
+{{define "main"}}
+<h1>About us . . .</h1>
+{{.Content}}
+<div id="parent">
+{{range .Pages}}
+  <div class="child">
+    <a href="{{.RelPermalink}}">{{.Title}}</a><br>
+  <br>
+  </div>
+  {{end}}
+</div>
+{{end}}

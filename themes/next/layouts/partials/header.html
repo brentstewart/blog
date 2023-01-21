@@ -1,0 +1,14 @@
+<link rel="stylesheet" href="{{ "bootstrap-table.css" | absURL }}">
+<div class="tags"><img src="/b.png" alt="Brent Stewart" height="75" > <i>a personal journal</i></div>
+<div class="nav"style="text-align: left">
+  <nav class="sidebar-nav">
+    {{ $currentPage := . }}
+    {{ range .Site.Menus.main }}
+      <a class="sidebar-nav-item{{if or ($currentPage.IsMenuCurrent "main" .) ($currentPage.HasMenuCurrent "main" .) }} active{{end}}" href="{{ .URL }}" title="{{ .Title }}">{{ .Name }}</a>
+    {{ end }}
+    &NonBreakingSpace;Find me on:&NonBreakingSpace;
+    <a href="https://nextpertise.net"><img src="/n.png" alt="Nextpertise" height="25" ></a>
+    <a href="https://www.stewart.tc/index.xml"><img src="/Feed-icon.png" alt="RSS" height="25" ></a>
+    <a href="https://www.linkedin.com/in/brentdstewart/"><img src="/linkedin.png" alt="LinkedIn" height="25" ></a>
+    {{ if .Params.math }}{{ partial "katex.html" . }}{{ end }}
+  </div>
