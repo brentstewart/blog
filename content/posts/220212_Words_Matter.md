@@ -5,7 +5,7 @@ author: "Brent Stewart"
 date: "2023-02-12T20:01:16-05:00"
 markup: 'mmark'
 math: false
-draft: true
+draft: false
 Victor_Hugo: "true"
 picture: ""
 Focus_Keyword: "Words matter"
