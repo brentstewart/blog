@@ -9,7 +9,7 @@ draft: false
 Victor_Hugo: "true"
 picture: "book"
 image: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Aleksandr_Solzhenitsyn_1974crop.jpg/330px-Aleksandr_Solzhenitsyn_1974crop.jpg"
-Focus_Keyword: ""
+Focus_Keyword: "Solzhenitsyn"
 youtube: ""
 github: ""
 refs: ["https://www.americanrhetoric.com/speeches/alexandersolzhenitsynharvard.htm"]
