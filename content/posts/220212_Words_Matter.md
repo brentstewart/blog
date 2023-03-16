@@ -7,13 +7,13 @@ markup: 'mmark'
 math: false
 draft: false
 Victor_Hugo: "true"
-picture: ""
+picture: "philosophy"
 Focus_Keyword: "Words matter"
 youtube: ""
 github: ""
 refs: [""]
 tags:
-  - ""
+  - "philosopy"
 ---
 Several lines of thought and reading converged this week in John chapter 1.
 
