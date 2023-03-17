@@ -1,11 +1,11 @@
 ---
-title: "Scythe_by_Neal_Shusterman"
+title: "Scythe by Neal Shusterman"
 description: ""
 author: "Brent Stewart"
 date: "2023-03-16T08:23:28-04:00"
 markup: 'mmark'
 math: false
-draft: true
+draft: false
 Victor_Hugo: "true"
 image: "https://m.media-amazon.com/images/I/513DK4WQymL.jpg"
 picture: "book"
