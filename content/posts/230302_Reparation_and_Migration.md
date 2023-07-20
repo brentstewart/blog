@@ -1,5 +1,5 @@
 ---
-title: "230302_Reparation_and_Migration"
+title: "Reparation and Migration"
 description: ""
 author: "Brent Stewart"
 date: "2023-03-02T07:36:47-05:00"
