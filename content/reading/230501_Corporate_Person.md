@@ -5,7 +5,7 @@ author: "Brent Stewart"
 date: "2023-05-01T08:39:02-04:00"
 markup: 'mmark'
 math: false
-draft: true
+draft: false
 Victor_Hugo: "true"
 picture: "book"
 image: "https://m.media-amazon.com/images/I/617s98Su0uL._AC_UY218_.jpg"
