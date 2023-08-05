@@ -14,7 +14,7 @@ youtube: ""
 github: ""
 refs: ["https://www.pbs.org/newshour/politics/read-full-the-indictment-against-trump-for-his-efforts-to-overturn-the-2020-election"]
 tags:
-  - "reading"
+  - "book"
 ---
 
 I read the Federal indictment of Donald Trump.  Trump is charged with:
