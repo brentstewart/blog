@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+    - "fiction"
 ---
 
 One of the coolest things is having your kids suggest books.  I've tried to share my love of reading with them.  In fact, we read to each child (we have four) every night until they were in middle school.  I've read everything from Goodnight Moon to Harry Potter, Little House of the Praerie to Angelina Ballerina, and treasured that time with them.  I'm proud of my kids and all that they've accomplished, but I tend to believe that parents have a lot less impact than we'd like to think.  That said, I see a straight-line connection between the time we spent reading together and their academic success, their ethical centeredness, and their continued love of reading.

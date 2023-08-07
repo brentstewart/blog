@@ -9,12 +9,13 @@ draft: false
 Victor_Hugo: "true"
 picture: "book"
 image: "https://m.media-amazon.com/images/I/617s98Su0uL._AC_UY218_.jpg"
-Focus_Keyword: ""
+Focus_Keyword: "Bellingwood"
 youtube: ""
 github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 This short book describes the mindset needed to serve on a volunteer board.  I'm part of a church group that is forming a non-profit for a camp.  Part of the training for the board was to study this book and to walk through it together.

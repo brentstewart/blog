@@ -15,6 +15,7 @@ github: ""
 refs: ["Bellingwood","Book"]
 tags:
   - "book"
+  - "fiction"
 ---
 
  My reading journal has been dormant, but I have been reading!  I'm going to try to catch back up, so you'll see several entries in short order.
