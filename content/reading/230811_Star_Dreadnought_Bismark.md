@@ -2,14 +2,14 @@
 title: "Star Dreadnought Bismark by Michael C. Thomas"
 description: "Star Dreadnought Bismark - Johnny Horton did it better"
 author: "Brent Stewart"
-date: "2023-09-05T17:57:52-04:00"
+date: "2023-08-11T17:57:52-04:00"
 markup: 'mmark'
 math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "/bismark.jpeg"
-Focus_Keyword: ""
+image: "bismark.jpeg"
+Focus_Keyword: "Star Dreadnought Bismark"
 youtube: ""
 github: ""
 refs: [""]
