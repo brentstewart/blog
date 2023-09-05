@@ -7,7 +7,7 @@ markup: 'mmark'
 math: false
 draft: false
 Victor_Hugo: "true"
-image: "Dune-Frank_Herbert_(1965)_First_edition.jpg"
+image: "/Dune-Frank_Herbert_(1965)_First_edition.jpg"
 Picture: "book"
 Focus_Keyword: "Dune"
 youtube: ""
