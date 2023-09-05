@@ -1,5 +1,5 @@
 ---
-title: "230827_Dune_by_Frank_Herbert"
+title: "Dune by Frank Herbert"
 description: "A reading journal entry on Frank Herbert's _Dune_"
 author: "Brent Stewart"
 date: "2023-09-04T14:27:07-04:00"

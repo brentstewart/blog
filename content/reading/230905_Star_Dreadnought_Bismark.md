@@ -1,5 +1,5 @@
 ---
-title: "230809_Star_Dreadnought_Bismark"
+title: "Star Dreadnought Bismark by Michael C. Thomas"
 description: "Star Dreadnought Bismark - Johnny Horton did it better"
 author: "Brent Stewart"
 date: "2023-09-05T17:57:52-04:00"
