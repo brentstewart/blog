@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 A friend recently asked for my opinion on _Dune_, the siminal work by Frank Herbert.  I read _Dune_ about forty years ago, but my overall impression deep and imaginative world-building, an Islamic-inspired setting (still strangely unique in Science Fiction), and the Superman-esque storytelling around the Kwsisatz-Haderach.  I was deeply taken in by the setting and characters, but put off by the _Deus ex Machina_ elements of Paul's abilities.

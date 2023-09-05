@@ -13,6 +13,6 @@ youtube: ""
 github: ""
 refs: [""]
 tags:
-  - ""
+  - "book"
 ---
 

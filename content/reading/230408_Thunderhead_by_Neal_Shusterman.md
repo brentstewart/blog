@@ -15,7 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
-    - "fiction"
+  - "fiction"
 ---
 
 This is book two of the series that my youngest son suggested that started with [_Scythe_](/230316_Scythe_by_Neal_Shusterman).  This series is about a future where humanity is effectively immortal, with some level of active culling being the only way to balance population growth.  I thought the first book was an interesting way to consider the value of life and the way that different people value life.  
