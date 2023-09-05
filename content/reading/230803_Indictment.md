@@ -1,5 +1,5 @@
 ---
-title: "230803_Indictment"
+title: "Indictment of Trump"
 description: ""
 author: "Brent Stewart"
 date: "2023-08-03T23:04:41-04:00"

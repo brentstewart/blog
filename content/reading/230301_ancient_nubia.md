@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "history"
 ---
 Captivating History publishes a line of books that I'd term "Historical Summarization".  These books are generally not in depth and not always well organized, but they're short and serve as an adequate introduction to a topic.  At 115 pages, this isn't a huge book.  It bogs down in places, as such books do when they start running through a list of names.  However, I am familiar with European history and have become more interested in filling in middle-eastern history.  I found this book interesting and picked up some interesting facts.
 

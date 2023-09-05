@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 __The Toll_ concludes the _Arc of the Scythe_ trilogy that started with [Scythe](/230316_scythe_by_neal_shusterman) and continued in [Thunderhead](/230408_thunderhead_by_neal_shusterman/).  Those books are about a future where humanity has transcended death through regeneration, but there is still a need to prevent overpopulation.  Administering death falls to a group of people referred to as Scythes.  This is a young adult book series dealing with a very mature topic.  There are descriptions of people dying and I felt that the first book walked a line, while the second book tripped on the line and into a pornography of violence.  Science Fiction has always found a way to approach a topic from a new direction, but I'm not confident that young teenagers understand their own mortality enough to get the more high-minded theme.

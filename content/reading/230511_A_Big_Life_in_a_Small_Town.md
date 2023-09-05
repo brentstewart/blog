@@ -15,6 +15,7 @@ github: ""
 refs: ["Bellingwood", "Book"]
 tags:
   - "book"
+  - "fiction"
 ---
 
  This is the second book in the Bellingwood series.  I checked and there are currently 41 of them!
