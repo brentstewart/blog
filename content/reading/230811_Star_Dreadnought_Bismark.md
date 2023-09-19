@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "bismark.jpeg"
+image: "/bismark.jpeg"
 Focus_Keyword: "Star Dreadnought Bismark"
 youtube: ""
 github: ""

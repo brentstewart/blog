@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "Bad_English.jpeg"
+image: "/Bad_English.jpeg"
 Focus_Keyword: "Bad English"
 youtube: ""
 github: ""

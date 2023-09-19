@@ -7,7 +7,7 @@ markup: 'mmark'
 math: false
 draft: false
 Victor_Hugo: "true"
-image: "indictment.png"
+image: "/indictment.png"
 picture: "book"
 Focus_Keyword: "Trump indictment"
 youtube: ""
