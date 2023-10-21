@@ -7,7 +7,7 @@ markup: 'mmark'
 math: false
 draft: false
 Victor_Hugo: "true"
-picture: "philosophy"
+picture: "news"
 Focus_Keyword: "AI"
 youtube: ""
 github: ""

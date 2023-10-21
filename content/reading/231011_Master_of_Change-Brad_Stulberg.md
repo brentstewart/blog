@@ -1,5 +1,5 @@
 ---
-title: "Master of Change by Brad_Stulberg"
+title: "Master of Change by Brad Stulberg"
 description: "Dealing with a changing world"
 author: "Brent Stewart"
 date: "2023-10-11T21:05:25-04:00"
@@ -8,13 +8,13 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"
+image: "masterofchange.jpg"
 Focus_Keyword: "Master of Change by Brad Stulberg"
 youtube: ""
 github: ""
 refs: [""]
 tags:
-  - "books"
+  - "book"
   - "non-fiction"
 ---
 

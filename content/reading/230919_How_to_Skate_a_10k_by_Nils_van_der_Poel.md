@@ -14,7 +14,7 @@ youtube: ""
 github: ""
 refs: ["https://www.howtoskate.se/"]
 tags:
-  - "books"
+  - "book"
   - "non-fiction"
 ---
 

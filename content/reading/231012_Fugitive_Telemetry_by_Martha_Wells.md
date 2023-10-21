@@ -8,14 +8,14 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "https://m.media-amazon.com/images/G/01/apparel/rcxgs/tile._CB483369110_.gif"
+image: "fugitivetelemetry.jpg"
 Focus_Keyword: "Murderbot"
 youtube: ""
 github: ""
 refs: [""]
 tags:
-  - "books"
-  - "fiction
+  - "book"
+  - "fiction"
 ---
 Remember what it's like to be excited to see a new book, hardly being able to wait to read it, and then devouring it?  Doesn't happen often, but when I saw that Martha Wells had published a new _Murderbot_ novel I had that feeling.
 

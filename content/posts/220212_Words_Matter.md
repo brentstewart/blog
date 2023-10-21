@@ -13,7 +13,7 @@ youtube: ""
 github: ""
 refs: [""]
 tags:
-  - "philosopy"
+  - "philosophy"
 ---
 Several lines of thought and reading converged this week in John chapter 1.
 
