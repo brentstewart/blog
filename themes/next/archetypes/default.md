@@ -8,6 +8,7 @@ math: false
 draft: true
 Victor_Hugo: "true"
 picture: ""
+image: ""
 Focus_Keyword: ""
 youtube: ""
 github: ""

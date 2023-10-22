@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 _Mr. Midshipman Hornblower_ is book 1 in a series, written in the 1950s, about a British naval officer during the Napoleanoic wars.  Each book captures his experience as he progresses in rank, with this first book focusing on his early career.

@@ -14,7 +14,8 @@ youtube: ""
 github: "https://github.com/brentstewart/bookbackgrounds"
 refs: ["book"]
 tags:
-  - ""
+  - "book"
+  - "non-fiction"
 ---
 
 My entire life _How to Win Friends and Influence People_ has been something of a punchline, but not something I had read.  I think the cultural touch-point to this book is that it is an empty way to manipulate people, kind of a psychopathic how-to.  I decided to read the book and came away with a (mostly) different view.

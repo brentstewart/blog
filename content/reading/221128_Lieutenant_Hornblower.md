@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "non-fiction"
 ---
 
 _Lieutenant Hornblower_ picks up a bit after _Mr. Midshipman Hornblower_.  This continues the story of a British seaman during Napoleanic days.

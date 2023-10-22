@@ -15,6 +15,7 @@ image: "https://m.media-amazon.com/images/I/51SOKjxz91L._AC_UY218_.jpg"
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 _Hornblower and the Atropos_ continues directly from _Horblower and the Hostspur_.  This continues the story of a British seaman during Napoleanic days.

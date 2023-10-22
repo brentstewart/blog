@@ -15,6 +15,7 @@ github: ""
 refs: ["https://www.amazon.com/Vanishing-Evangelical-Success-Restoring-Matters-ebook/dp/B00CIUJWI6/"]
 tags:
   - "book"
+  - "non-fiction"
 ---
 
 Many books on the current state of the Christianity dwell on the gap between "the modern culture" and the church.  These books acknowledge the fundamental dissonance between the two, but focus on bringing Christian worship and church practices into the current world.  Calvin Miller makes the case that the Evangelical movement has fundamentally lost touch with it's values, and without rediscovering these values has nothing to say to larger society.

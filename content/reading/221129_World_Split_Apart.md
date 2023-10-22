@@ -15,6 +15,8 @@ github: ""
 refs: ["https://www.americanrhetoric.com/speeches/alexandersolzhenitsynharvard.htm"]
 tags:
   - "book"
+  - "non-fiction"
+  - "philosophy"
 ---
 
 Alexandr Solzhenitsyn was one of the subjects of _7 More Men_ by Eric Metaxas, a set of short biographies I recently read.   Mataxas referenced _A World Apart_ as an important speech, leading me to find it.  This reading was at least the fourth time I've encountered Solzhenitsyn.

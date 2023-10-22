@@ -15,7 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
-  - "fiction"
+  - "leadership"
 ---
 
 This short book describes the mindset needed to serve on a volunteer board.  I'm part of a church group that is forming a non-profit for a camp.  Part of the training for the board was to study this book and to walk through it together.

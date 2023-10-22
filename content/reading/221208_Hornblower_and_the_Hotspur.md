@@ -15,6 +15,7 @@ image: "https://m.media-amazon.com/images/I/51kgMITxdCL._AC_UY218_.jpg"
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 _Hornblower and the Hotspur_ continues directly from _Lieutenant Horblower_.  This continues the story of a British seaman during Napoleanic days.

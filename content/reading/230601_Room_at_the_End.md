@@ -14,5 +14,6 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 

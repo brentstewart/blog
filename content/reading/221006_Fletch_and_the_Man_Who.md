@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 My habit is to flip between a serious and thoughtful book and something that is just fun.  One of the authors that I've always really enjoyed is Gregory McDonald, in particular his books about Fletch and Flynn.  It occured to me that I've just picked up the odd book here and there, so I went to Amazon and filled in the missing parts of my collection and I've been re-reading the entire series.
 

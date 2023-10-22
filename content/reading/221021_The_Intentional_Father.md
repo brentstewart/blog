@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "non-fiction"
 ---
 
 Tyson's book describes his efforts - starting with birth - to puposely build a course of study and experience that would lead his son to manhood.  He lays out the preperation, including collaborating with friends so that their sons went through the experience together.  They built an initiation experience to kick off their teenage studies and the process ends in a "graduation" into manhood.

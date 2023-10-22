@@ -15,6 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
+  - "fiction"
 ---
 
 _Heaven's River_ is book 4 in the "Bobiverse".  The concept of the series is the Bob was a 21st century programmer whose head was cryogenically preserved after death.  He is resurrected many years later as the intelligence of a Von Neumann probe (an interstellar probe that clones itself).  The series takes a long view over human history after-Earth and touches on interesting ideas of individuality, moral philosophy, and the nature of a soul.

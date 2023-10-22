@@ -173,7 +173,7 @@ img[src$='#floatsmallright']
 }
 #parent {width: 95%;display: grid; grid-template-columns: 33% 33% 33%; width: max-content;box-sizing: 100%; grid-template-rows: auto; bottom-border:20px;}
 
-.child {width: 95%;border-bottom: 50px; }
+.child {width: 95%;border-bottom: 25px; }
 
 .tags {color:#1e1619; font-size:18px}
 

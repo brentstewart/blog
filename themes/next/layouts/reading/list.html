@@ -1,14 +1,13 @@
 
 {{define "main"}}
-<h1>Recent articles:</h1>
+<h1>Recent reading:</h1><br>
 <div id="parent">
 {{range .Pages}}
   <div class="child">
-    <a href="{{.RelPermalink}}">{{.Title}}</a><br>
-    <div class="tags"> 
-
-    </div>
-  <br>
+    <a href="{{.RelPermalink}}" title="{{.Title}}"><img src="{{.Params.image}}" height="150" alt=".Title"></a><br>
+    <font size="1">
+      {{.Title}} ({{ if .Params.tags }} {{range .Params.tags}}<a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a> {{end}}{{end}})
+    </font><br>
   </div>
   {{end}}
 </div>

@@ -10,7 +10,9 @@ image: "https://m.media-amazon.com/images/I/719P3YxzZEL._AC_UY218_.jpg"
 github: "https://github.com/brentstewart/bookbackgrounds"
 youtube: ""
 refs: [""]
-tags: ["book"]
+tags:
+  - "book"
+  - "non-fiction"
 ---
 
 
