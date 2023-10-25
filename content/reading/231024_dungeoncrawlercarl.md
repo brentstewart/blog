@@ -15,7 +15,7 @@ github: ""
 refs: [""]
 tags:
   - "book"
-  - "fiction
+  - "fiction"
 ---
 
 I was sharing my enthusiasm about Murderbot with a friend, who also liked that series and suggested I try _Dungeon Crawler Carl_ by Matt Dinniman.  There's something in that title that gives an accurate impression of what to expect in the book.  It's about Carl, and he's in a dungeon.  It's also sardonically descriptive and the book similarly finds humor in exageration.
