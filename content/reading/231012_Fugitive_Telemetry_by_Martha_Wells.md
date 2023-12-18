@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "fugitivetelemetry.jpg"
+image: "/fugitivetelemetry.jpg"
 Focus_Keyword: "Murderbot"
 youtube: ""
 github: ""

@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "sontag.jpeg"
+image: "/sontag.jpeg"
 Focus_Keyword: ""
 youtube: ""
 github: ""

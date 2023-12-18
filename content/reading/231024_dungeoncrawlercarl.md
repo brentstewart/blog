@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "dungeoncc.jpg"
+image: "/dungeoncc.jpg"
 Focus_Keyword: ""
 youtube: ""
 github: ""

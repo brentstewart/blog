@@ -8,7 +8,7 @@ math: false
 draft: false
 Victor_Hugo: "true"
 picture: "book"
-image: "masterofchange.jpg"
+image: "/masterofchange.jpg"
 Focus_Keyword: "Master of Change by Brad Stulberg"
 youtube: ""
 github: ""
