@@ -2,7 +2,7 @@
 title: "Life Between the Lines"
 description: ""
 author: "Brent Stewart"
-date: "2023-08-12T21:01:57-04:00"
+date: "2023-06-03T21:01:57-04:00"
 markup: 'mmark'
 math: false
 draft: false
